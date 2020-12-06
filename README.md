@@ -7,4 +7,4 @@ Two tasks are required to be performed:-
 
 1. Binomial classification- To classify for normal or attack. Here first, important features have been selected out of the given features,then Vif has been used for multi-collinearity. After this, using final features various models have been trained and then the evaluation metrics have been checked.
 
-2. Multinomial classification- To classify for threats for different categories. Here first, important features have been selected out of the given features,then Vif has been used for multi-collinearity. Afterwards sunce the class was highly imbalanced, we have Smote to balance the data. Afterwards various models have been trained and their evalutaion metrics have been compared
+2. Multinomial classification- To classify for threats for different categories. Here first, important features have been selected out of the given features,then Vif has been used for multi-collinearity. Afterwards since the class was highly imbalanced, we have used Smote to balance the data. Afterwards, various models have been trained and their evalutaion metrics have been compared
